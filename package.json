@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/noobgl/noobgl-euler#readme",
   "dependencies": {
-    "noobgl-matrix": "0.0.1"
+    "noobgl-matrix": "0.0.3"
   }
 }
