@@ -1,6 +1,6 @@
 {
   "name": "noobgl-euler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Euler class designed for noobgl",
   "main": "index.js",
   "repository": {
