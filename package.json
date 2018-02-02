@@ -1,0 +1,22 @@
+{
+  "name": "noobgl-euler",
+  "version": "0.0.1",
+  "description": "Euler class designed for noobgl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noobgl/noobgl-euler.git"
+  },
+  "keywords": [
+    "euler"
+  ],
+  "author": "Jordan Delcros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noobgl/noobgl-euler/issues"
+  },
+  "homepage": "https://github.com/noobgl/noobgl-euler#readme",
+  "dependencies": {
+    "noobgl-matrix": "0.0.1"
+  }
+}
